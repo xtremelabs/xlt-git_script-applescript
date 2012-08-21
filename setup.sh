@@ -1,4 +1,4 @@
 #!/bin/bash
-cp ./xlt-gitconfig.app /Applications/xlt-gitconfig.app
+cp ./xlt_gitconfig.app /Applications/xlt_gitconfig.app
 crontab crontab.txt
 crontab -l
