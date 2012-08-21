@@ -1,2 +1,1 @@
-MAILTO=vincent.lee@xtremelabs.com
-* * * * * open /usr/local/bin/xlt_gitconfig.app
+45 9 * * 1 open /Applications/xlt_gitconfig.app
