@@ -1,4 +1,4 @@
 #!/bin/bash
-cp -r ./GitHub.workflow /usr/local/bin/GitHub.workflow
+cp -r ./GitHub.workflow /Applications/GitHub.workflow
 crontab crontab.txt
 crontab -l
