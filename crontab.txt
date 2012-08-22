@@ -1,1 +1,1 @@
-45 9 * * 1 automator -v /usr/local/bin/GitHub.workflow
+45 9 * * 1 automator -v /Applications/GitHub.workflow
