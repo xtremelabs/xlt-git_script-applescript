@@ -1,1 +1,1 @@
-45 9 * * 1 open /Applications/xlt_gitconfig.app
+45 9 * * 1 automator -v /usr/local/bin/GitHub.workflow

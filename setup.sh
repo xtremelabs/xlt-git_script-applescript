@@ -1,4 +1,4 @@
 #!/bin/bash
-cp ./xlt_gitconfig.app /Applications/xlt_gitconfig.app
+cp -r ./GitHub.workflow /usr/local/bin/GitHub.workflow
 crontab crontab.txt
 crontab -l
