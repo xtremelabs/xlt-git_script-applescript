@@ -1,1 +1,2 @@
+MAILTO=""
 45 9 * * 1 automator -v /Applications/GitHub.workflow
